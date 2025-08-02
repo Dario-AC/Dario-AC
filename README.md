@@ -1,4 +1,4 @@
-<h1 aling="center"><!Hola, soy Dario¡✌🏻></h1>
+<h1 aling="center"><#!Hola, soy Dario¡✌🏻></h1>
 
 *Actualmente me encuentro en un curso de QA en donde he aprendido y desarrollado nuevas habilidades*
 
