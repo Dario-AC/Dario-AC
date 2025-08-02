@@ -35,3 +35,7 @@ Actualmente me encuentro en un curso de QA en donde he aprendido y desarrollado 
     </a>
   </h4>
 </details>
+<h3 align="center">
+  Espero pronto terminar el bootcamp, poder contribuir en el mundo laboral y poder seguir aprendiendo, mejorando e innovando en este nuevo ambito
+</h3>
+ <a href="https://www.linkedin.com/in/dario-alonso-chavez"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>
